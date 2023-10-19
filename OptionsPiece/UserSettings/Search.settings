@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.8824D059" = "urp wi"
+	"last_search.8824D059" = "input"
 	"OpenInspectorPreview.8824D059" = "0"
 	"currentGroup.8824D059" = "all"
 }
@@ -56,6 +56,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"in"
 ]
 searchItemFavorites = [
 ]
